@@ -25,7 +25,7 @@ I am data scientist with a kink for building machine learning models and compute
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [here](http://chibuikeonuba.github.io/)
 * ✉️  You can contact me at [onubawinner042@gmail.com](mailto:onubawinner042@gmail.com)
-* 📝 Find my resume [here](https://drive.google.com/file/d/1E_le9kK-phhVXmbxhGVsN7R89tiID6XK/view?usp=sharing)
+* 📝 Find my resume [here]([https://drive.google.com/file/d/1X0C5vRBNzDyL50wGPNsC9D7y9IBMU_0n/view?usp=sharing])
 * 🚀  I'm currently working on a [Driver Drowsiness detection software](http://github.com/ChibuikeOnuba/Drowsiness-Detection-Mediapipe)
 * 🧠  I'm learning some deep learning techniques
 * 🤝  I'm open to collaborating on data science and computer vision based projects

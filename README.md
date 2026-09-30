@@ -19,10 +19,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist | Data Analyst
 -----------------------------
 
-I am data scientist with a kink for building machine learning models and computer vision projects. Leet code lover
-
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Data_Heroes_Series.gif"><br>
-* 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [here](http://chibuikeonuba.github.io/)
 * ✉️  You can contact me at [onubawinner042@gmail.com](mailto:onubawinner042@gmail.com)
 * 📝 Find my resume [here]([https://drive.google.com/file/d/1X0C5vRBNzDyL50wGPNsC9D7y9IBMU_0n/view?usp=sharing])
@@ -30,7 +27,6 @@ I am data scientist with a kink for building machine learning models and compute
 * 🧠  I'm learning some deep learning techniques
 * 🤝  I'm open to collaborating on data science and computer vision based projects
 * 😄 Pronouns: He/Him
-* ⚡  I play football also
 
 <a href="https://www.github.com/ChibuikeOnuba" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ChibuikeOnuba?logo=github&style=for-the-badge&color=facc15&labelColor=000000" /></a><a href="https://www.x.com/chibuike_heis" target="_blank" rel="noreferrer"><img

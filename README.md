@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chibuike Onuba
 ======================================================================================================================================
 
-Data Scientist | Data Analyst
+Data Scientist | Customer Success Manager & Tech Ops @getthera.com
 -----------------------------
 
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/Google_Cloud_Data_Heroes_Series.gif"><br>
